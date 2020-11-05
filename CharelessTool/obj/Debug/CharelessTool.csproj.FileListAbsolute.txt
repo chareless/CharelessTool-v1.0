@@ -1,0 +1,15 @@
+C:\Users\deniz\source\repos\CharelessTool\bin\Debug\CharelessTool.exe.config
+C:\Users\deniz\source\repos\CharelessTool\bin\Debug\CharelessTool.exe
+C:\Users\deniz\source\repos\CharelessTool\bin\Debug\CharelessTool.pdb
+C:\Users\deniz\source\repos\CharelessTool\obj\Debug\CharelessTool.csprojAssemblyReference.cache
+C:\Users\deniz\source\repos\CharelessTool\obj\Debug\CharelessTool.Properties.Resources.resources
+C:\Users\deniz\source\repos\CharelessTool\obj\Debug\CharelessTool.csproj.GenerateResource.cache
+C:\Users\deniz\source\repos\CharelessTool\obj\Debug\CharelessTool.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\CharelessTool\obj\Debug\CharelessTool.exe
+C:\Users\deniz\source\repos\CharelessTool\obj\Debug\CharelessTool.pdb
+C:\Users\deniz\source\repos\CharelessTool\bin\Debug\HtmlAgilityPack.dll
+C:\Users\deniz\source\repos\CharelessTool\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\deniz\source\repos\CharelessTool\bin\Debug\HtmlAgilityPack.xml
+C:\Users\deniz\source\repos\CharelessTool\obj\Debug\CharelessTool.Update.resources
+C:\Users\deniz\source\repos\CharelessTool\obj\Debug\CharelessTool.csproj.CopyComplete
+C:\Users\deniz\source\repos\CharelessTool\obj\Debug\CharelessTool.CharelessTool.resources
